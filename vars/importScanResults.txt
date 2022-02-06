@@ -1,0 +1,5 @@
+<strong>Description</strong>
+<br>
+Import the scan results from Anchore or Dependency-Check to the vulnerability management solution DefectDojo.
+<br>
+<strong>Arguments</strong>
